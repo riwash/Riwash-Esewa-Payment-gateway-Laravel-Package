@@ -1,0 +1,27 @@
+{
+    "name": "riwash/esewa",
+    "description": "This package allow you to integrate esewa payment in your website",
+    "keywords": [
+        "Laravel",
+        "Esewa",
+        "integration",
+        "Payment Gateway",
+        "Nepali Payment Gateway"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riwash Chamlagain",
+            "email": "contact@riwash.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Riwash\\Esewa\\": "src/"
+        }
+    },
+}
