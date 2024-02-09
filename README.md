@@ -16,7 +16,7 @@
 
 use Riwash\Esewa\RiwashEsewa;
 
-'''
+```
 
   <?php
 
@@ -60,5 +60,6 @@ class PaymentTestController extends Controller
     }
 
 }
-'''
- This much
+```
+
+This much
