@@ -2,7 +2,7 @@
 
 ## This package allow you to use esewa v2 for payment gateway
 
-** Note:Deffine this thing in env file**
+**Note:Deffine this thing in env file**
 
 - ESEWA_ACCESS_TYPE = Live ** select one Live or Test **
 - ESEWA_MERCHANT_ID = your secret key
@@ -10,7 +10,7 @@
 - ESEWA_SUCCESS_URL = after payment success call back url
 - ESEWA_FAIL_URL = if payment is failed call back url
 
-** After That **
+**After That**
 
 ### Make Controller
 
@@ -63,3 +63,4 @@ class PaymentTestController extends Controller
 ```
 
 This much
+**If you get any issue or bug then create issue from here [https://github.com/riwash/Riwash-Esewa-Payment-gateway-Laravel-Package/issues](https://github.com/riwash/Riwash-Esewa-Payment-gateway-Laravel-Package/issues)**
