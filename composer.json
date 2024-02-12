@@ -23,5 +23,5 @@
         "psr-4": {
             "Riwash\\Esewa\\": "src/"
         }
-    },
+    }
 }
